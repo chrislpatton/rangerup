@@ -2,5 +2,3 @@ var str ="RANGE-yhst-50863389838911-330900 RANGE-yhst-50863389838911-330926 RANG
 
 var lostOrders = str.split(" ");
 
-document.write (lostOrders);
-console.log(lostOrders);
